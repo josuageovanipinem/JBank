@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ CustomerFileWriter()
+comment1.params=customers
+comment1.target=void\ saveCustomer(java.util.ArrayList)
+numComments=2

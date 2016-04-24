@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=cust\ amount\ creditAmount
+comment0.target=LineOfCredit(Customer,\ double,\ double)
+comment0.text=\r\n\ Method\ Constructor\ LineOfCredit\ \r\n\ @param\ cust\ \ \ \ \ \ \ \ \ \ \ \ \ \ objek\ customer\r\n\ @param\ amount\ \ \ \ \ \ \ \ \ \ \ \ jumlah\r\n\ @param\ creditAmount\ \ \ \ \ \ batasan\ kredit\r\n
+comment1.params=
+comment1.target=double\ getCreditBalance()
+comment1.text=\r\n\ Accessor\ getCreditBalance,\ getter\ saldo\ kredit\r\n\ @return\ creditBalance\r\n
+comment2.params=
+comment2.target=double\ getCreditLimit()
+comment2.text=\r\n\ Accessor\ getCreditLimit,\ getter\ limit\ kredit\r\n\ @return\ creditLimit\ \ \ \ \ \ \ limit\ kredit\r\n
+comment3.params=amount
+comment3.target=void\ setCreditBalance(double)
+comment3.text=\r\n\ Mutator\ setCreditBalance,\ setter\ nilai\ saldo\ kredit\r\n\ @param\ amount\ \ \ \ \ nilai\ saldo\r\n
+comment4.params=amount
+comment4.target=void\ setCreditLimit(double)
+comment4.text=\r\n\ Mutator\ setCreditLimit,\ setter\ limit\ kredit\r\n\ @param\ amount\ \ \ \ nilai\ limit\r\n
+comment5.params=amount
+comment5.target=void\ withdraw(double)
+comment5.text=\r\n\ Method\ withdraw,\ override\ withdraw\r\n\ @param\ amount\ Jumlah\ Saldo\r\n
+comment6.params=
+comment6.target=void\ feeAssessment()
+comment6.text=\r\n\ Method\ feeAssessment\ override\ feeassessment,\ Perhitungan\ biaya\ kredit\r\n
+numComments=7

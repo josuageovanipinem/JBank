@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=cust\ amount\ months
+comment0.target=Investment(Customer,\ double,\ int)
+comment0.text=\r\n\ Constructor\ dari\ Investment\r\n\ @param\ Customer\ \ \ \ \ \ dari\ class\ Customer\r\n\ @param\ amount\ \ \ \ \ \ \ \ tipe\ double\ banyaknya\ jumlah\r\n\ @param\ months\ \ \ \ \ \ \ \ tipe\ int,\ banyaknya\ bulan\r\n
+comment1.params=days
+comment1.target=void\ addDailyInterest(int)
+comment1.text=\r\n\ Method\ untuk\ menambahkan\ bunga\ harian\r\n\ @param\ days\ \ \ \ \ \ hari\ yang\ digunakan\r\n
+comment2.params=amount
+comment2.target=void\ withdraw(double)
+comment2.text=\r\n\ Method\ withdraw\ Withdraw\ berbayar\ \r\n\ @param\ amount\ \ \ \ Banyaknya\ yang\ diambil\ berbanding\ tanggal\ penentuan\ ambil\r\n
+numComments=3

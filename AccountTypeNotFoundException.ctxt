@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=acctType
+comment0.target=AccountTypeNotFoundException(char)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ AccountTypeNotFoundException\r\n
+comment1.params=
+comment1.target=java.lang.String\ getMessage()
+comment1.text=\ \ \ \ \ \r\n\ Method\ untuk\ override\ mutator\ getMessage()\ pada\ java.lang.Exception\ \ \ \ \r\n\ @return\ message\ \ \ \ \ \ String\ yang\ dicetak\ \r\n
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ feeAssessment()
+comment0.text=\r\n\ Metode\ abstrak\ cek\ bayaran\ akun\ Checking\r\n\ @return\ void\r\n
+comment1.params=
+comment1.target=void\ resetMonthlyFee()
+comment1.text=\r\n\ Metode\ abstrak\ reset\ biaya\ akun\ bulanan\r\n\ @return\ void\r\n
+comment2.params=
+comment2.target=double\ getMonthlyFee()
+comment2.text=\r\n\ Metode\ getter\ abstrak\ \ biaya\ akun\ bulanan\r\n\ @return\ monthlyfee\ \ \ \ \ \ biaya\ bulanan\r\n
+numComments=3

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Account()
+comment1.params=cust\ amount\ type
+comment1.target=Account(Customer,\ double,\ char)
+comment1.text=\r\n\ Constructor\ pada\ class\ Account\ untuk\ membuat\ objek\r\n\ @param\ type\ \ \ \ \ tipe\ dari\ akun\ yang\ dimasukkan\r\n\ @param\ amount\ \ \ jumlah\ dari\ balance\ yang\ dimasukkan\r\n
+comment2.params=amount
+comment2.target=boolean\ deposit(double)
+comment2.text=\r\n\ Method\ pada\ class\ account\ untuk\ pengecekan\ jumlah\ \r\n\ @param\ Amount\ \ jumlah\ dari\ amount\ pada\ akun\r\n
+comment3.params=
+comment3.target=double\ getBalance()
+comment3.text=\r\n\ Method\ Accessor\ getBalance\r\n\ @return\ \ \ value\ dari\ balance\ akan\ dikembalikan\r\n
+comment4.params=
+comment4.target=java.lang.String\ getID()
+comment4.text=\r\n\ Method\ Accessor\ getId\r\n\ @return\ \ \ \ mengembalikan\ string\ dari\ ID\ \r\n
+comment5.params=amount
+comment5.target=void\ setBalance(double)
+comment5.text=\r\n\ Method\ Mutator\ setBalance\r\n\ @param\ amount\ \ \ \ masukkan\ uang\r\n
+comment6.params=amount
+comment6.target=void\ withdraw(double)
+comment6.text=\r\n\ Method\ withdraw\r\n\ @param\ amount\ \ \ \ banyak\ uang\ diambil\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

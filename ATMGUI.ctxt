@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ATMGUI()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ATMGUI\r\n
+comment1.params=
+comment1.target=void\ buildGUI()
+comment1.text=\r\nbuildGUI\ akan\ membuat\ ATMGUI\ \ \r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=int\ getIDcust()
+comment3.text=\r\n\ Method\ aksesor\ dari\ id\ cust\r\n\ \r\n\ @return\ ID\ kustomer\r\n
+comment4.params=
+comment4.target=double\ getNominal()
+comment4.text=\r\n\ Method\ aksesor\ nominal\r\n\ \r\n\ @return\ Nominal\ yang\ ditulis\r\n
+comment5.params=
+comment5.target=java.lang.String\ getTextArea()
+comment5.text=\r\n\ Method\ aksesor\ textarea\r\n\ \r\n\ @return\ ID\ \r\n
+comment6.params=input
+comment6.target=void\ setTextArea(java.lang.String)
+comment6.text=\r\n\ Method\ mutator\ text\ input\r\n\ \r\n\ @param\ input\ \ \ \ \ Text\ input-an\r\n
+numComments=7
